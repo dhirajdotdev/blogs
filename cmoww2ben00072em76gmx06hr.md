@@ -1,8 +1,11 @@
 ---
 title: "Async Code in Node.js: Callbacks and Promises"
+seoTitle: "Async Code in Node.js Callbacks and Promises"
+seoDescription: "Async Code in Node.js: Callbacks and Promises"
 datePublished: 2026-05-08T12:25:59.619Z
 cuid: cmoww2ben00072em76gmx06hr
 slug: async-code-in-node-js-callbacks-and-promises
+tags: javascript, asynchronous, nodejs, asynchronous-javascript, chaicode
 
 ---
 
