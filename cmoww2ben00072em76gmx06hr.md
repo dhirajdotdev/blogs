@@ -314,7 +314,9 @@ Continue execution
 
 Task finishes later
 
-↓ Callback runs
+↓
+
+Callback runs
 
 * * *
 
