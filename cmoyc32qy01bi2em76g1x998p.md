@@ -4,7 +4,7 @@ seoTitle: "JWT Authentication in Node.js Explained Simply"
 seoDescription: "JWT Authentication in Node.js Explained Simply"
 datePublished: 2026-05-09T12:42:15.085Z
 cuid: cmoyc32qy01bi2em76g1x998p
-slug: jwt-authentication-in-node-js-explained-simply
+slug: jwt-authentication-in-node-js
 tags: authentication, javascript, nodejs, jwt, chaicode
 
 ---
