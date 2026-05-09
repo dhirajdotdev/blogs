@@ -175,7 +175,7 @@ as the main resource example.
 
 * * *
 
-# 1\. GET Request — Fetch Data
+# 1\. GET Request - Fetch Data
 
 Used for:
 
@@ -218,7 +218,7 @@ app.get("/users", (req, res) => {
 
 * * *
 
-# 2\. POST Request — Create Data
+# 2\. POST Request - Create Data
 
 Used for:
 
@@ -249,7 +249,7 @@ app.post("/users", (req, res) => {
 
 * * *
 
-# 3\. PUT Request — Update Data
+# 3\. PUT Request - Update Data
 
 Used for:
 
@@ -278,7 +278,7 @@ app.put("/users/:id", (req, res) => {
 
 * * *
 
-# 4\. DELETE Request — Remove Data
+# 4\. DELETE Request - Remove Data
 
 Used for:
 
